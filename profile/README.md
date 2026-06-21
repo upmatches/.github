@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/upmatches/.github/main/profile/logo.png" alt="Upmatches" width="200">
+  <img src="https://raw.githubusercontent.com/upmatches/.github/main/profile/hero.svg" alt="No Mismatch, On Upmatches">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/upmatches/.github/main/profile/hero.svg" alt="No mismatches, on Upmatches">
+  <img src="https://raw.githubusercontent.com/upmatches/.github/main/profile/logo.png" alt="Upmatches" width="200">
 </p>
 
 Upmatches brings players and organizers together, making every match easier to discover, host, and join.
